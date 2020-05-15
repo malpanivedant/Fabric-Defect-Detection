@@ -10,3 +10,11 @@ advancement automatic fabric defect detection is developed and it has sidelined
 the traditional process which is performed by humans. Generally, the automatic
 defect detection process involves three steps: image acquisition, defect detection
 and post processing of fabric.
+
+For detailed explaination visit.
+
+https://github.com/malpanivedant/Fabric-Defect-Detection/blob/master/Fabric%20Defect%20Detection%20(1).pdf
+
+
+Working Model 
+https://www.youtube.com/watch?v=JPnzcm21Uh8
